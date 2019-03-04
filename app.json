@@ -53,6 +53,13 @@
             }
           },
           {
+            "name": "header",
+            "type": "text",
+            "placeholder": {
+              "en": "Header"             
+            }
+          },
+          {
             "name": "priority",
             "type": "dropdown",
             "values": [
@@ -242,6 +249,13 @@
             }
           },
           {
+            "name": "header",
+            "type": "text",
+            "placeholder": {
+              "en": "Header"             
+            }
+          },
+          {
             "name": "priority",
             "type": "dropdown",
             "values": [
@@ -297,6 +311,13 @@
             "placeholder": {
               "en": "Message",
               "nl": "Bericht"
+            }
+          },
+          {
+            "name": "header",
+            "type": "text",
+            "placeholder": {
+              "en": "Header"             
             }
           },
           {
